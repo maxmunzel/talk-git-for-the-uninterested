@@ -43,9 +43,23 @@ Type  H <return>  for immediate help.
 
 # Warum git?
 
-* "Snapshots" wichtiger Zwischenergebnisse
-* Backups 
-* Fehler finden oder rückgängig machen
-* strukturierte Kollaboration 
+* "Snapshots" wichtiger Zwischenergebnisse - _commits_
+* Backups - _remotes_
+* Fehler finden oder rückgängig machen - _checkout_, _diff_
+* strukturierte Kollaboration  
 
+# git basics
+
+```bash
+git init
+git status
+git add # bzw. git reset
+git commit -m "Did some stuff"
+```
+
+```bash
+git log
+git diff
+git checkout
+```
 
