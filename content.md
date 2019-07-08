@@ -104,7 +104,8 @@ Basti:
 
 Consti:
 
-Max:
+Max: 
+ * haben Sie überhaupt Abitur?
 
 Carlos:
 
