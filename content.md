@@ -67,14 +67,18 @@ Type  H <return>  for immediate help.
 
 ```bash
 git init
+
 git status
 git add # bzw. git reset
 git commit -m "Did some stuff"
-```
 
-```bash
 git log
 git diff
+
+git pull
+git push
+
+git branch
 git checkout
 ```
 
