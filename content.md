@@ -103,7 +103,7 @@ Simon:
 Basti:Jetzt mal im ernst, was mach ich hier?
 
 Consti: 
-Warum stinkts hier so?
+Warum stinkts Dennis so?
 
 Max: 
  * haben Sie überhaupt Abitur?
