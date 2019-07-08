@@ -48,6 +48,21 @@ Type  H <return>  for immediate help.
 * Fehler finden oder rückgängig machen - _checkout_, _diff_
 * strukturierte Kollaboration  
 
+# git setup
+
+* Basic Installation:
+	* https://git-scm.com/downloads
+	* Ubuntu: `sudo apt-get install git`
+	* mac: `brew install git`
+* Graphische Clients: 
+	* https://desktop.github.com (Windows/Mac)
+	* https://www.gitkraken.com/ (Windows/Mac/Linux)
+* Semigraphischer Client:
+	* https://tortoisegit.org (Windows)
+* Hosting
+	* **https://github.com**
+	* https://gitlab.com
+
 # git basics
 
 ```bash
