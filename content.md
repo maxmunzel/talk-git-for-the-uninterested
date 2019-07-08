@@ -1,4 +1,4 @@
-% Versionsverwaltung mit Git 
+﻿% Versionsverwaltung mit Git 
 % Max Nagy 
 % 8. Juli 2019 
 
@@ -102,7 +102,8 @@ Simon:
 
 Basti:
 
-Consti:
+Consti: 
+Warum stinkts hier so?
 
 Max:
 
