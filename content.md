@@ -94,6 +94,8 @@ git checkout
 
 Jannic:
 
+Warum ist Yannic s0 1 nicer b0y?
+
 Dennis:
 
 Simon:
