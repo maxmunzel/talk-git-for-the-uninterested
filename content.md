@@ -63,6 +63,14 @@ Type  H <return>  for immediate help.
 	* **https://github.com**
 	* https://gitlab.com
 
+# git setup
+
+```bash
+cd
+ssh-keygen
+cat .ssh/id_rsa-pub
+```
+
 # git basics
 
 ```bash
