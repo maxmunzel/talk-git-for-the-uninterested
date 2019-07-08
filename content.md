@@ -92,7 +92,7 @@ git checkout
 
 # Fragen
 
-Jannic:Janick
+Jannic:
 
 Dennis: Wie kommen die "Rasen betreten verboten" Schilder in die Mitte des Rasens?
 
@@ -100,7 +100,7 @@ Simon:
 
 # Fragen II
 
-Basti:Jetzt mal im ernst, was mach ich hier?
+Basti:
 
 Consti: 
 Warum stinkts hier so?
