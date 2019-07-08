@@ -1,4 +1,4 @@
-% Versionsverwaltung mit Git 
+﻿% Versionsverwaltung mit Git 
 % Max Nagy 
 % 8. Juli 2019 
 
@@ -94,7 +94,7 @@ git checkout
 
 Jannic:
 
-Dennis:
+Dennis: Wie kommen die "Rasen betreten verboten" Schilder in die Mitte des Rasens?
 
 Simon:
 
