@@ -90,3 +90,21 @@ git branch
 git checkout
 ```
 
+# Fragen
+
+Jannic:
+
+Dennis:
+
+Simon:
+
+# Fragen II
+
+Basti:
+
+Consti:
+
+Max:
+
+Carlos:
+
