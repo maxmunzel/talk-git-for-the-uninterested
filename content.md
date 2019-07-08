@@ -68,7 +68,7 @@ Type  H <return>  for immediate help.
 ```bash
 cd
 ssh-keygen
-cat .ssh/id_rsa-pub
+cat .ssh/id_rsa.pub
 ```
 
 # git basics
